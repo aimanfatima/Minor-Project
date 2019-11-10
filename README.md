@@ -1,5 +1,5 @@
 # Minor-Project
-# OFFENSIVE  IMAGE  CONTENT DETECTION SYSTEM THROUGH TEXT EXTRACTION AND IMAGE PROCESSING
+# Offensive  Image  Content Detection System through Text Extraction and Image Processing
 
 
 ## **Indira Gandhi Delhi Technical University for Women (Semester - 7)** 
