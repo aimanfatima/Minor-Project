@@ -16,8 +16,8 @@
 
 ### Problem Statement
 
-One of the main problems of the Internet is the presence of harmful (e.g. pornographic) or even illegal (e.g. pedophilic) contents which is not suitable for all age groups. The amount of this non-desired material is growing at an increasing rate.
-To design a system which would detect the offensive image and text content present in the form of an image against social media standards and block them from posting on any social media platform.
+One of the main problems of the Internet is the presence of harmful (e.g. pornographic) or even illegal and offensive (e.g. violent, racist, sexist, pedophilic, etc.) content which is not suitable for all age groups. The amount of this non-desired material is growing at an increasing rate.
+To design a system which would detect the offensive image and also text content present in the form of an image against social media standards and block them from posting on any social media platform.
 
 ## Different forms of Offensive content with examples
 
