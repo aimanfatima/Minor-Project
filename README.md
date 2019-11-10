@@ -1,6 +1,6 @@
 # Minor-Project
 
-## **Indira Gandhi Delhi Technical University for Women (Semester - 7) ** 
+## **Indira Gandhi Delhi Technical University for Women (Semester - 7)** 
 
 ### Team Members-
 <ul>
