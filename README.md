@@ -1,11 +1,12 @@
 ﻿# Minor-Project
  
- This is the Minor Project for Semester-7
- Indira Gandhi Delhi Technical University for Women
+ ##This is the Minor Project for Semester-7
+ ##**Indira Gandhi Delhi Technical University for Women**
  
-Team Members-
-
-Aiman Fatima
-Vaidehi Gupta
-Shally Kumar
-Kanishka Arora
+###Team Members-
+<ul>
+ <li>Aiman Fatima</li>
+ <li>Vaidehi Gupta</li>
+ <li>Shally Kumar</li>
+ <li>Kanishka Arora</li>
+</ul>
