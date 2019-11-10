@@ -35,7 +35,7 @@ To design a system which would detect the offensive image and also text content 
       <img src="images/Picture2.jpg" width="350" title="2">
  </li>
  </br></br>
- <li> <b>Both image and text are offensive</b>
+ <li> <b>Both image and text are offensive (Indirect Reference)</b>
       </br></br>
       <img src="images/Picture3.jpg" width="350" title="3">
  </li>
